@@ -1,0 +1,9 @@
+# Target labels
+ Extra
+ opencv_text
+ Sample
+# Source files and their labels
+/Users/vedant_j/opencv_contrib-4.5.0/modules/text/samples/textdetection_swt.cpp
+ Extra
+ opencv_text
+ Sample

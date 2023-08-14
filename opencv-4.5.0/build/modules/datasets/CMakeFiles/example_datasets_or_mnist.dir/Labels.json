@@ -1,0 +1,24 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/vedant_j/opencv_contrib-4.5.0/modules/datasets/samples/or_mnist.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_datasets",
+				"Sample"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_datasets",
+			"Sample"
+		],
+		"name" : "example_datasets_or_mnist"
+	}
+}

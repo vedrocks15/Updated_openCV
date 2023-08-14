@@ -1,0 +1,9 @@
+# Target labels
+ Extra
+ opencv_line_descriptor
+ Sample
+# Source files and their labels
+/Users/vedant_j/opencv_contrib-4.5.0/modules/line_descriptor/samples/lines_extraction.cpp
+ Extra
+ opencv_line_descriptor
+ Sample

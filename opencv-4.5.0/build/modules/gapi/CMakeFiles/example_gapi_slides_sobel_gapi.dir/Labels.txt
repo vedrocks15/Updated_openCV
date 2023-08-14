@@ -1,0 +1,9 @@
+# Target labels
+ Main
+ opencv_gapi
+ Sample
+# Source files and their labels
+/Users/vedant_j/opencv-4.5.0/modules/gapi/samples/slides_sobel_gapi.cpp
+ Main
+ opencv_gapi
+ Sample
