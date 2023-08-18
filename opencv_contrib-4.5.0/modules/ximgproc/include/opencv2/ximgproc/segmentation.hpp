@@ -190,7 +190,7 @@ namespace cv {
                                 @param k The k parameter for the graph segmentation
                                 @param sigma The sigma parameter for the graph segmentation
                             */
-                            CV_WRAP virtual void switchToSingleStrategy(int k=200, float sigma = 0.8f, int inc_k = 10) = 0;
+                            CV_WRAP virtual void switchToSingleStrategy(int base_k=200, float sigma = 0.8f, int inc_k = 10) = 0;
 
                             /** @brief Initialize the class with the 'Selective search fast' parameters describled in @cite uijlings2013selective.
                                 @param base_k The k parameter for the first graph segmentation
